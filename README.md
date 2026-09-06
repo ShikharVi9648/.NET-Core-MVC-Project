@@ -1,1 +1,1 @@
-# WebApplication1
+ASP.NET Core MVC web application with JWT authentication, secure password hashing, SQL Server, and Entity Framework Core. Includes user registration/login, HTTP-only JWT cookies, authorization-protected dashboard, and complete CRUD operations for product management. Built with C#, Razor Views, Bootstrap, and modern ASP.NET Core practices.
